@@ -1,7 +1,6 @@
 import createForm from '../packages/core/src'
 
-console.log("hello world")
-console.log(createForm)
+console.log('hello world')
 const form = createForm({
   initialValues: {
     aa: 123,
